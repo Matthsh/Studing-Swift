@@ -1,3 +1,5 @@
+//Quantidade de livros em estoque por categoria
+
 //Declara a função "stockList" que recebe dois parâmetros: uma lista de artigos e uma lista de categorias
 func stockList(_ listOfArt: [String], _ listOfCat: [String]) -> String {
     //Se a lista de artigos ou a lista de categorias estiverem vazias, retorna uma string vazia
